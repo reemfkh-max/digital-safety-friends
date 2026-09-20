@@ -31,7 +31,7 @@ Digital Safety Friends was created to make digital safety awareness more accessi
 ## 👩‍💻 Author
 
 **Reem Al-Mutairi**
-Cybersecurity Graduate | Agentic AI Enthusiast
+Cybersecurity Graduate
 
 ## 🔗 Connect With Me
 
